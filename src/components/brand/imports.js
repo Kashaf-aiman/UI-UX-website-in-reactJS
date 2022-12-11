@@ -6,8 +6,8 @@ import shopify from '../../assets/shopify.png';
 
 export {
     google,
-slack,
-atlassian,
-dropbox,
-shopify
+    slack,
+    atlassian,
+    dropbox,
+    shopify
 }
